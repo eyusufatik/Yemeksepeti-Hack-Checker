@@ -1,4 +1,4 @@
-If you happen to have the recent yemeksepeti user information leaks, which is highly illegal so you shouldn't have it, follow these two steps to check if any of your contacts is in it.
+If you happen to have the recent yemeksepeti user information leaks, which is highly illegal so you shouldn't have it, follow these five steps to check if any of your contacts is in it.
 
 1. Name the leak file as `list.txt`
 2. `python3 numbers_from_attack.py` to extract numbers from the leak. (Uses Reg-Ex if you wonder)
